@@ -1,8 +1,5 @@
-# Amazon Location Service Example
+# AWSの地図サービス、Amazon Location Service を試してみた！（２）実践編 デモ
 
-AmazonLocationService が提供している地図タイルに、Geolonia Embed API でカスタムデータレイヤーを追加したサンプルです。
+これは「[AWSの地図サービス、Amazon Location Service を試してみた！（２）実践編](http://blog.geolonia.com/amazon-location-service-2.html)」用のサンプルです。
 
-## デモ
-
-* [Amazon Location デフォルト版地図](example-1.html)
-* [Geolonia の API とカスタムスタイルで、日本語化＆PoIを追加した地図](example-x.html)
+デモ: https://geolonia.github.io/aws-example-2021-06-07/example-1.html
